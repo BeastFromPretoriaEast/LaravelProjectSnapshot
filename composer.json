@@ -1,0 +1,23 @@
+{
+    "name": "infopixel/laravel-project-snapshot",
+    "description": "Exports a Laravel project snapshot (tree + code bundle) into a single markdown file.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2|^8.3|^8.4",
+        "illuminate/support": "^11.0|^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "InfoPixel\\ProjectSnapshot\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "InfoPixel\\ProjectSnapshot\\ProjectSnapshotServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
