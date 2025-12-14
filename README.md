@@ -26,7 +26,7 @@ php artisan snapshot
 
 ## ✨ Features
 
-- 🧠 Optimised for **ChatGPT / LLM ingestion**
+- 🧠 Optimized for **ChatGPT / LLM ingestion**
 - ✅ Single-file snapshot (`project.snapshot.md`)
 - 🌳 Clean, readable **file tree with depth**
 - 🔒 **Secret scrubbing** (JWTs, API keys, Bearer tokens, private keys)
