@@ -42,17 +42,27 @@ php artisan snapshot
 
 ## 📦 Screenshots
 
-**Command line**
-![Snapshot Example](./docs/images/snapshot-command.png)
+<figure style="margin:0 0 1rem 0;">
+  <figcaption><strong>Command line</strong></figcaption>
+  <img src="./docs/images/snapshot-command.png" alt="Command line snapshot example" />
+</figure>
 
-**project.snapshot.md (Metadata)**
-![Snapshot Example](./docs/images/snapshot-filetree-and-metadata.png)
+<figure style="margin:0 0 1rem 0;">
+  <figcaption><strong>project.snapshot.md (Metadata)</strong></figcaption>
+  <img src="./docs/images/snapshot-filetree-and-metadata.png" alt="Snapshot metadata example" />
+</figure>
 
-**project.snapshot.md (File Display)**
-![Snapshot Example](./docs/images/snapshot-file-display.png)
+<figure style="margin:0 0 1rem 0;">
+  <figcaption><strong>project.snapshot.md (File Display)</strong></figcaption>
+  <img src="./docs/images/snapshot-file-display.png" alt="Snapshot file display example" />
+</figure>
 
-**File Size (project.snapshot.md)**
-![Snapshot Example](./docs/images/snapshot-file-size.png)
+<figure style="margin:0 0 1rem 0;">
+  <figcaption><strong>File Size (project.snapshot.md)</strong></figcaption>
+  <img src="./docs/images/snapshot-file-size.png" alt="Snapshot file size example" />
+</figure>
+
+---
 
 ## 🚨 Important Safety Notice
 
